@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background: rgb(195, 152, 224);
+  background: linear-gradient(90deg, rgb(195, 152, 224) 0%, rgb(255, 88, 88) 50%, rgb(235, 197, 144) 100%);
+  text-align: center;
+  padding: 20px 0;
+}
+header a {
+  color: #fff;
+  padding: 0 30px;
+  font-size: 1.5rem;
+}/*# sourceMappingURL=common.css.map */

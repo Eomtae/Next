@@ -1,0 +1,16 @@
+html,body{
+    margin: 0;
+}
+*{box-sizing: border-box;}
+
+header{
+    background: rgb(195,152,224);
+    background: linear-gradient(90deg, rgba(195,152,224,1) 0%, rgba(255,88,88,1) 50%, rgba(235,197,144,1) 100%);    
+    text-align: center;
+    padding: 20px 0;
+    a{
+        color:#fff;
+        padding: 0 30px;
+        font-size: 1.5rem;
+    }
+}
